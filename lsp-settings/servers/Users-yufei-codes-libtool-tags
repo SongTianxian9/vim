@@ -1,0 +1,653 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BIND_RESTRICTED	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^#  define BIND_RESTRICTED	/;"	d	file:
+DIR	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define DIR	/;"	d
+DIR	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^} DIR;$/;"	t	typeref:struct:__anon4
+DLERROR	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#  define DLERROR(/;"	d	file:
+DL__SETERROR	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#define DL__SETERROR(/;"	d	file:
+DYLD_BOOL	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^ enum DYLD_BOOL {$/;"	g	file:
+DYLD__SETERROR	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#define DYLD__SETERROR(/;"	d	file:
+DYLD__SETMYERROR	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#define DYLD__SETMYERROR(/;"	d	file:
+DYNAMIC_PATH	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^#  define DYNAMIC_PATH	/;"	d	file:
+D_NAMLEN	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define D_NAMLEN(/;"	d
+ENUM_DYLD_BOOL	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^# define ENUM_DYLD_BOOL$/;"	d	file:
+EOS_CHAR	/Users/yufei/codes/libtool/libltdl/lt__argz.c	/^#define EOS_CHAR /;"	d	file:
+EXIT_FAILURE	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define EXIT_FAILURE /;"	d
+EXIT_SUCCESS	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define EXIT_SUCCESS /;"	d
+FALSE	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^    FALSE,$/;"	e	enum:DYLD_BOOL	file:
+FALSE	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^# undef FALSE$/;"	d	file:
+FREE	/Users/yufei/codes/libtool/libltdl/libltdl/lt__alloc.h	/^#define FREE(/;"	d
+LC_LOAD_WEAK_DYLIB	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^# define LC_LOAD_WEAK_DYLIB /;"	d	file:
+LC_REQ_DYLD	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^# define LC_REQ_DYLD /;"	d	file:
+LOADLIB_SETERROR	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^#define LOADLIB_SETERROR(/;"	d	file:
+LOADLIB__SETERROR	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^#define LOADLIB__SETERROR(/;"	d	file:
+LOCALFREE	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^#define LOCALFREE(/;"	d	file:
+LTDL_H	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^#define LTDL_H /;"	d
+LTDL_SEARCHPATH_VAR	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LTDL_SEARCHPATH_VAR	/;"	d	file:
+LTDL_SEARCHPATH_VAR	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  LTDL_SEARCHPATH_VAR$/;"	d	file:
+LTDL_SET_PRELOADED_SYMBOLS	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^#define LTDL_SET_PRELOADED_SYMBOLS(/;"	d
+LTDL_VERSION_INFO	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^LTDL_VERSION_INFO	= -version-info 10:1:3$/;"	m
+LT_ARCHIVE_EXT	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LT_ARCHIVE_EXT	/;"	d	file:
+LT_ARCHIVE_EXT	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  LT_ARCHIVE_EXT$/;"	d	file:
+LT_BEGIN_C_DECLS	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define LT_BEGIN_C_DECLS	/;"	d
+LT_BIND_FLAGS	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^#define	LT_BIND_FLAGS	/;"	d	file:
+LT_CONC	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT_CONC(/;"	d
+LT_CONC3	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT_CONC3(/;"	d
+LT_DIRSEP_CHAR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define LT_DIRSEP_CHAR	/;"	d
+LT_DLIS_RESIDENT	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LT_DLIS_RESIDENT(/;"	d	file:
+LT_DLIS_SYMGLOBAL	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LT_DLIS_SYMGLOBAL(/;"	d	file:
+LT_DLIS_SYMLOCAL	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LT_DLIS_SYMLOCAL(/;"	d	file:
+LT_DLLOADER_APPEND	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  LT_DLLOADER_PREPEND = 0, LT_DLLOADER_APPEND$/;"	e	enum:__anon5
+LT_DLLOADER_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^#define LT_DLLOADER_H /;"	d
+LT_DLLOADER_PREPEND	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  LT_DLLOADER_PREPEND = 0, LT_DLLOADER_APPEND$/;"	e	enum:__anon5
+LT_DLSYM_CONST	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define LT_DLSYM_CONST /;"	d
+LT_DLSYM_CONST	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define LT_DLSYM_CONST$/;"	d
+LT_END_C_DECLS	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define LT_END_C_DECLS	/;"	d
+LT_EOS_CHAR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#define LT_EOS_CHAR	/;"	d
+LT_ERROR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^#define LT_ERROR(/;"	d
+LT_ERROR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^#undef LT_ERROR$/;"	d
+LT_ERROR	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^#define LT_ERROR(/;"	d	file:
+LT_ERROR	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^#undef LT_ERROR$/;"	d	file:
+LT_ERROR_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^#define LT_ERROR_H /;"	d
+LT_ERROR_LEN_MAX	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^#define LT_ERROR_LEN_MAX /;"	d
+LT_ERROR_MAX	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^	LT_ERROR_MAX$/;"	e	enum:__anon8
+LT_FILENAME_MAX	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#define LT_FILENAME_MAX /;"	d
+LT_FILENAME_MAX	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#  define LT_FILENAME_MAX	/;"	d	file:
+LT_GLOBAL_DATA	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#   define LT_GLOBAL_DATA	/;"	d
+LT_GLOBAL_DATA	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#  define LT_GLOBAL_DATA	/;"	d
+LT_LAZY_OR_NOW	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#      define LT_LAZY_OR_NOW	/;"	d	file:
+LT_LAZY_OR_NOW	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#    define LT_LAZY_OR_NOW	/;"	d	file:
+LT_LAZY_OR_NOW	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#  define LT_LAZY_OR_NOW	/;"	d	file:
+LT_LIBEXT	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#  define LT_LIBEXT /;"	d	file:
+LT_LIBPREFIX	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#  define LT_LIBPREFIX /;"	d	file:
+LT_PATHSEP_CHAR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define LT_PATHSEP_CHAR	/;"	d
+LT_READTEXT_MODE	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT_READTEXT_MODE /;"	d
+LT_READTEXT_MODE	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#undef	LT_READTEXT_MODE$/;"	d
+LT_SCOPE	/Users/yufei/codes/libtool/libltdl/libltdl/lt__argz_.h	/^#  define LT_SCOPE$/;"	d
+LT_SCOPE	/Users/yufei/codes/libtool/libltdl/libltdl/lt__argz_.h	/^#  undef LT_SCOPE$/;"	d
+LT_SCOPE	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#      define LT_SCOPE	/;"	d
+LT_SCOPE	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#    define LT_SCOPE	/;"	d
+LT_SCOPE	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^#  define LT_SCOPE$/;"	d
+LT_SCOPE	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^#  undef LT_SCOPE$/;"	d
+LT_STMT_END	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#    define LT_STMT_END /;"	d
+LT_STMT_END	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT_STMT_END /;"	d
+LT_STMT_START	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#    define LT_STMT_START /;"	d
+LT_STMT_START	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT_STMT_START /;"	d
+LT_STR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT_STR(/;"	d
+LT_STRLEN	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^#define LT_STRLEN(/;"	d
+LT_SYMBOL_LENGTH	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LT_SYMBOL_LENGTH	/;"	d	file:
+LT_SYMBOL_LENGTH	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef	LT_SYMBOL_LENGTH$/;"	d	file:
+LT_SYMBOL_OVERHEAD	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define LT_SYMBOL_OVERHEAD	/;"	d	file:
+LT_SYMBOL_OVERHEAD	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef	LT_SYMBOL_OVERHEAD$/;"	d	file:
+LT_SYSTEM_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#define LT_SYSTEM_H /;"	d
+LT__ALLOC_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt__alloc.h	/^#define LT__ALLOC_H /;"	d
+LT__ARGZ_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt__argz_.h	/^#define LT__ARGZ_H /;"	d
+LT__CONC	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT__CONC(/;"	d
+LT__CONC3	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT__CONC3(/;"	d
+LT__DIRENT_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#define LT__DIRENT_H /;"	d
+LT__GETERROR	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define LT__GETERROR(/;"	d
+LT__GLIBC_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#define LT__GLIBC_H /;"	d
+LT__MAGIC	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define LT__MAGIC	/;"	d	file:
+LT__PRIVATE_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define LT__PRIVATE_H /;"	d
+LT__SETERROR	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define LT__SETERROR(/;"	d
+LT__SETERRORSTR	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define LT__SETERRORSTR(/;"	d
+LT__STR	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define LT__STR(/;"	d
+LT__STRERROR	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define LT__STRERROR(/;"	d
+LT__STRL_H	/Users/yufei/codes/libtool/libltdl/libltdl/lt__strl.h	/^#define LT__STRL_H /;"	d
+LT__SYMLOOKUP_OPTS	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#define LT__SYMLOOKUP_OPTS	/;"	d	file:
+LT__UNUSED	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^# define LT__UNUSED /;"	d
+MALLOC	/Users/yufei/codes/libtool/libltdl/libltdl/lt__alloc.h	/^#define MALLOC(/;"	d
+MEMREASSIGN	/Users/yufei/codes/libtool/libltdl/libltdl/lt__alloc.h	/^#define MEMREASSIGN(/;"	d
+NSADDIMAGE_OPTION_MATCH_FILENAME_BY_INSTALLNAME	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSADDIMAGE_OPTION_MATCH_FILENAME_BY_INSTALLNAME /;"	d	file:
+NSADDIMAGE_OPTION_NONE	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSADDIMAGE_OPTION_NONE /;"	d	file:
+NSADDIMAGE_OPTION_RETURN_ONLY_IF_LOADED	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSADDIMAGE_OPTION_RETURN_ONLY_IF_LOADED /;"	d	file:
+NSADDIMAGE_OPTION_RETURN_ON_ERROR	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSADDIMAGE_OPTION_RETURN_ON_ERROR /;"	d	file:
+NSADDIMAGE_OPTION_WITH_SEARCHING	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSADDIMAGE_OPTION_WITH_SEARCHING /;"	d	file:
+NSLOOKUPSYMBOLINIMAGE_OPTION_BIND	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSLOOKUPSYMBOLINIMAGE_OPTION_BIND /;"	d	file:
+NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_FULLY	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_FULLY /;"	d	file:
+NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_NOW	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_NOW /;"	d	file:
+NSLOOKUPSYMBOLINIMAGE_OPTION_RETURN_ON_ERROR	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#  define NSLOOKUPSYMBOLINIMAGE_OPTION_RETURN_ON_ERROR /;"	d	file:
+REALLOC	/Users/yufei/codes/libtool/libltdl/libltdl/lt__alloc.h	/^#define REALLOC(/;"	d
+RETURN_FAILURE	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^#define RETURN_FAILURE /;"	d	file:
+RETURN_SUCCESS	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^#define RETURN_SUCCESS /;"	d	file:
+RTLD_GLOBAL	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#    define RTLD_GLOBAL	/;"	d	file:
+RTLD_LOCAL	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#    define RTLD_LOCAL	/;"	d	file:
+R_OK	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#  define R_OK /;"	d
+SLIST_H	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^#define SLIST_H /;"	d
+SList	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^} SList;$/;"	t	typeref:struct:slist
+SListCallback	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^typedef void *	SListCallback	(SList *item, void *userdata);$/;"	t
+SListCompare	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^typedef int	SListCompare	(const SList *item1, const SList *item2,$/;"	t
+STREQ	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define STREQ(/;"	d
+STRNEQ	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#define STRNEQ(/;"	d
+STR_DLNAME	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define STR_DLNAME	/;"	d	file:
+STR_DLNAME	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  STR_DLNAME$/;"	d	file:
+STR_DL_DEPLIBS	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define STR_DL_DEPLIBS	/;"	d	file:
+STR_DL_DEPLIBS	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  STR_DL_DEPLIBS$/;"	d	file:
+STR_LIBDIR	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define STR_LIBDIR	/;"	d	file:
+STR_LIBDIR	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  STR_LIBDIR$/;"	d	file:
+STR_LIBRARY_NAMES	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define STR_LIBRARY_NAMES /;"	d	file:
+STR_LIBRARY_NAMES	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  STR_LIBRARY_NAMES$/;"	d	file:
+STR_OLD_LIBRARY	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define STR_OLD_LIBRARY	/;"	d	file:
+STR_OLD_LIBRARY	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#undef  STR_OLD_LIBRARY$/;"	d	file:
+TRUE	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^    TRUE$/;"	e	enum:DYLD_BOOL	file:
+TRUE	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^# undef TRUE$/;"	d	file:
+VC_LIST_ALWAYS_EXCLUDE_REGEX	/Users/yufei/codes/libtool/cfg.mk	/^VC_LIST_ALWAYS_EXCLUDE_REGEX = ^mail\/$/;"	m
+WINDOWS_DIRENT_EMULATION	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define WINDOWS_DIRENT_EMULATION /;"	d
+Win32FindData	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^  WIN32_FIND_DATA Win32FindData;$/;"	m	struct:__anon4
+__CYGWIN__	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define __CYGWIN__ /;"	d
+__WINDOWS__	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^#   undef __WINDOWS__$/;"	d
+__WINDOWS__	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# define __WINDOWS__ /;"	d
+__WINDOWS__	/Users/yufei/codes/libtool/libltdl/libltdl/lt_system.h	/^# undef __WINDOWS__$/;"	d
+__attribute__	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^#  define __attribute__(/;"	d
+__need_error_t	/Users/yufei/codes/libtool/libltdl/libltdl/lt__argz_.h	/^#define __need_error_t$/;"	d
+__private_extern__	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#    define __private_extern__ /;"	d	file:
+_sc_search_regexp_or_exclude	/Users/yufei/codes/libtool/cfg.mk	/^define _sc_search_regexp_or_exclude$/;"	m
+add_symlist	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^add_symlist (const lt_dlsymlist *symlist)$/;"	f	file:
+address	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  void       *address;$/;"	m	struct:__anon1
+alloc_die_default	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^alloc_die_default (void)$/;"	f	file:
+announcement_Cc_	/Users/yufei/codes/libtool/cfg.mk	/^announcement_Cc_ = autotools-announce@gnu.org$/;"	m
+announcement_Cc_	/Users/yufei/codes/libtool/cfg.mk	/^announcement_Cc_ = autotools-announce@gnu.org, $(PACKAGE_BUGREPORT)$/;"	m
+archive_ext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	const char	archive_ext[]		= LT_ARCHIVE_EXT;$/;"	v	file:
+argz_append	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  define argz_append	/;"	d
+argz_append	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  undef  argz_append$/;"	d
+argz_append	/Users/yufei/codes/libtool/libltdl/lt__argz.c	/^argz_append (char **pargz, size_t *pargz_len, const char *buf, size_t buf_len)$/;"	f
+argz_create_sep	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  define argz_create_sep	/;"	d
+argz_create_sep	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  undef  argz_create_sep$/;"	d
+argz_create_sep	/Users/yufei/codes/libtool/libltdl/lt__argz.c	/^argz_create_sep (const char *str, int delim, char **pargz, size_t *pargz_len)$/;"	f
+argz_insert	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  define argz_insert	/;"	d
+argz_insert	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  undef  argz_insert$/;"	d
+argz_insert	/Users/yufei/codes/libtool/libltdl/lt__argz.c	/^argz_insert (char **pargz, size_t *pargz_len, char *before, const char *entry)$/;"	f
+argz_next	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  define argz_next	/;"	d
+argz_next	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  undef  argz_next$/;"	d
+argz_next	/Users/yufei/codes/libtool/libltdl/lt__argz.c	/^argz_next (char *argz, size_t argz_len, const char *entry)$/;"	f
+argz_stringify	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  define argz_stringify	/;"	d
+argz_stringify	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^#  undef  argz_stringify$/;"	d
+argz_stringify	/Users/yufei/codes/libtool/libltdl/lt__argz.c	/^argz_stringify (char *argz, size_t argz_len, int sep)$/;"	f
+argzize_path	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^argzize_path (const char *path, char **pargz, size_t *pargz_len)$/;"	f	file:
+bootstrap_options_prep	/Users/yufei/codes/libtool/bootstrap	/^bootstrap_options_prep ()$/;"	f
+bootstrap_parse_options	/Users/yufei/codes/libtool/bootstrap	/^bootstrap_parse_options ()$/;"	f
+bootstrap_validate_options	/Users/yufei/codes/libtool/bootstrap	/^bootstrap_validate_options ()$/;"	f
+canonicalize_path	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^canonicalize_path (const char *path, char **pcanonical)$/;"	f	file:
+closedir	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define closedir	/;"	d
+closedir	/Users/yufei/codes/libtool/libltdl/lt__dirent.c	/^closedir (DIR *entry)$/;"	f
+d_name	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^  char d_name[LT_FILENAME_MAX];$/;"	m	struct:dirent
+d_namlen	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^  int  d_namlen;$/;"	m	struct:dirent
+data	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  void *		data;$/;"	m	struct:__anon7
+default_preloaded_symbols	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^static const	lt_dlsymlist   *default_preloaded_symbols	= 0;$/;"	v	file:
+depcount	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  int			depcount;	\/* number of dependencies *\/$/;"	m	struct:lt__handle
+deplibs	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  lt_dlhandle *		deplibs;	\/* dependencies *\/$/;"	m	struct:lt__handle
+dirent	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define dirent	/;"	d
+dirent	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^struct dirent$/;"	s
+dlloader_data	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_user_data		dlloader_data;$/;"	m	struct:__anon6
+dlloader_exit	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_dlloader_exit *	dlloader_exit;$/;"	m	struct:__anon6
+dlloader_init	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_dlloader_init *	dlloader_init;$/;"	m	struct:__anon6
+dyld_cannot_close	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^static int dyld_cannot_close				  = 0;$/;"	v	file:
+dylderror	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^dylderror (const char *errmsg)$/;"	f	file:
+dylib_command	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^typedef struct dylib_command dylib_command;$/;"	t	typeref:struct:dylib_command	file:
+error_message	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^static char *error_message = 0;$/;"	v	file:
+error_strings	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^static const char	error_strings[LT_ERROR_MAX][LT_ERROR_LEN_MAX + 1] =$/;"	v	file:
+errorcount	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^static	int		errorcount		= LT_ERROR_MAX;$/;"	v	file:
+exclude_file_name_regexp--sc_old_style_quoting	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_old_style_quoting = (^bootstrap|^cfg.mk|\\.texi)$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_Xsed_without_X	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_Xsed_without_X = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_bracket_as_test	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_bracket_as_test = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_command_in_subst	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_command_in_subst = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_nested_quotes	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_nested_quotes = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_set_dummy_without_shift	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_set_dummy_without_shift = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_set_minus_minus	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_set_minus_minus = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_strcmp	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_strcmp = \\$/;"	m
+exclude_file_name_regexp--sc_prohibit_test_X	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_test_X = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_test_dollar	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_test_dollar = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_prohibit_test_minus_ao	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_test_minus_ao = \\$/;"	m
+exclude_file_name_regexp--sc_prohibit_test_minus_e	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_prohibit_test_minus_e = ^cfg.mk$\$$/;"	m
+exclude_file_name_regexp--sc_require_function_nl_brace	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_require_function_nl_brace = (^HACKING|\\.[ch]|\\.texi)$\$$/;"	m
+exclude_file_name_regexp--sc_space_tab	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_space_tab = (\\.diff|test-funclib-quote.sh)$\$$/;"	m
+exclude_file_name_regexp--sc_trailing_blank-non-rfc3676	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_trailing_blank-non-rfc3676 = \\.diff$\$$/;"	m
+exclude_file_name_regexp--sc_useless_braces_in_variable_derefs	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_useless_braces_in_variable_derefs = \\$/;"	m
+exclude_file_name_regexp--sc_useless_quotes_in_case	/Users/yufei/codes/libtool/cfg.mk	/^exclude_file_name_regexp--sc_useless_quotes_in_case = ^cfg.mk$\$$/;"	m
+fallback_getthreaderrormode	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^fallback_getthreaderrormode (void)$/;"	f	file:
+fallback_setthreaderrormode	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^fallback_setthreaderrormode (DWORD mode, DWORD *oldmode)$/;"	f	file:
+file_info	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^  struct dirent file_info;$/;"	m	struct:__anon4	typeref:struct:__anon4::dirent
+file_not_found	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^file_not_found (void)$/;"	f	file:
+file_worker_func	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^typedef int	file_worker_func      (const char *filename, void *data);$/;"	t	file:
+filename	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  char *	filename;	\/* file name *\/$/;"	m	struct:__anon2
+find_file	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^find_file (const char *search_path, const char *base_name, char **pdir)$/;"	f	file:
+find_file_callback	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^find_file_callback (char *filename, void *data1, void *data2)$/;"	f	file:
+find_handle	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^find_handle (const char *search_path, const char *base_name,$/;"	f	file:
+find_handle_callback	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^find_handle_callback (char *filename, void *data, void *data2)$/;"	f	file:
+find_module	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^find_module (lt_dlhandle *handle, const char *dir, const char *libdir,$/;"	f	file:
+find_sym	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_find_sym *		find_sym;$/;"	m	struct:__anon6
+firsttime	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^  BOOL firsttime;$/;"	m	struct:__anon4
+flags	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  int			flags;		\/* various boolean stats *\/$/;"	m	struct:lt__handle
+fn_check_msg	/Users/yufei/codes/libtool/build-aux/git-hooks/commit-msg	/^fn_check_msg ()$/;"	f
+fn_error	/Users/yufei/codes/libtool/build-aux/git-hooks/commit-msg	/^fn_error ()$/;"	f
+fn_re_edit	/Users/yufei/codes/libtool/build-aux/git-hooks/commit-msg	/^fn_re_edit ()$/;"	f
+fn_rewrite	/Users/yufei/codes/libtool/build-aux/git-hooks/commit-msg	/^fn_rewrite ()$/;"	f
+foreach_callback_func	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^typedef int	foreach_callback_func (char *filename, void *data1,$/;"	t	file:
+foreach_dirinpath	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^foreach_dirinpath (const char *search_path, const char *base_name,$/;"	f	file:
+foreachfile_callback	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^foreachfile_callback (char *dirname, void *data1, void *data2)$/;"	f	file:
+free_symlists	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^free_symlists (void)$/;"	f	file:
+func_add_hook	/Users/yufei/codes/libtool/bootstrap	/^func_add_hook ()$/;"	f
+func_append	/Users/yufei/codes/libtool/bootstrap	/^  func_append ()$/;"	f
+func_append_quoted	/Users/yufei/codes/libtool/bootstrap	/^  func_append_quoted ()$/;"	f
+func_append_uniq	/Users/yufei/codes/libtool/bootstrap	/^func_append_uniq ()$/;"	f
+func_arith	/Users/yufei/codes/libtool/bootstrap	/^  func_arith ()$/;"	f
+func_autoconf_configure	/Users/yufei/codes/libtool/bootstrap	/^func_autoconf_configure ()$/;"	f
+func_autopoint	/Users/yufei/codes/libtool/bootstrap	/^func_autopoint ()$/;"	f
+func_autoreconf	/Users/yufei/codes/libtool/bootstrap	/^func_autoreconf ()$/;"	f
+func_bootstrap	/Users/yufei/codes/libtool/bootstrap	/^func_bootstrap ()$/;"	f
+func_check_configuration	/Users/yufei/codes/libtool/bootstrap	/^func_check_configuration ()$/;"	f
+func_check_prog_grep	/Users/yufei/codes/libtool/bootstrap	/^  func_check_prog_grep ()$/;"	f
+func_check_prog_sed	/Users/yufei/codes/libtool/bootstrap	/^  func_check_prog_sed ()$/;"	f
+func_check_tool	/Users/yufei/codes/libtool/bootstrap	/^func_check_tool ()$/;"	f
+func_check_versions	/Users/yufei/codes/libtool/bootstrap	/^func_check_versions ()$/;"	f
+func_clean_dangling_symlinks	/Users/yufei/codes/libtool/bootstrap	/^func_clean_dangling_symlinks ()$/;"	f
+func_clean_unused_macros	/Users/yufei/codes/libtool/bootstrap	/^func_clean_unused_macros ()$/;"	f
+func_cleanup_gnulib	/Users/yufei/codes/libtool/bootstrap	/^func_cleanup_gnulib ()$/;"	f
+func_cmp_s	/Users/yufei/codes/libtool/bootstrap	/^func_cmp_s ()$/;"	f
+func_download_po_files	/Users/yufei/codes/libtool/bootstrap	/^func_download_po_files ()$/;"	f
+func_echo	/Users/yufei/codes/libtool/bootstrap	/^func_echo ()$/;"	f
+func_echo_all	/Users/yufei/codes/libtool/bootstrap	/^func_echo_all ()$/;"	f
+func_echo_infix_1	/Users/yufei/codes/libtool/bootstrap	/^func_echo_infix_1 ()$/;"	f
+func_ensure_NEWS	/Users/yufei/codes/libtool/bootstrap	/^func_ensure_NEWS ()$/;"	f
+func_ensure_README	/Users/yufei/codes/libtool/bootstrap	/^func_ensure_README ()$/;"	f
+func_ensure_changelog	/Users/yufei/codes/libtool/bootstrap	/^func_ensure_changelog ()$/;"	f
+func_error	/Users/yufei/codes/libtool/bootstrap	/^func_error ()$/;"	f
+func_executable_p	/Users/yufei/codes/libtool/bootstrap	/^func_executable_p ()$/;"	f
+func_extract_trace	/Users/yufei/codes/libtool/bootstrap	/^func_extract_trace ()$/;"	f
+func_extract_trace_first	/Users/yufei/codes/libtool/bootstrap	/^func_extract_trace_first ()$/;"	f
+func_fatal_error	/Users/yufei/codes/libtool/bootstrap	/^func_fatal_error ()$/;"	f
+func_fatal_error	/Users/yufei/codes/libtool/build-aux/edit-readme-alpha	/^func_fatal_error ()$/;"	f
+func_fatal_help	/Users/yufei/codes/libtool/bootstrap	/^func_fatal_help ()$/;"	f
+func_find_tool	/Users/yufei/codes/libtool/bootstrap	/^func_find_tool ()$/;"	f
+func_fini	/Users/yufei/codes/libtool/bootstrap	/^func_fini ()$/;"	f
+func_get_version	/Users/yufei/codes/libtool/bootstrap	/^func_get_version ()$/;"	f
+func_gettext_configuration	/Users/yufei/codes/libtool/bootstrap	/^func_gettext_configuration ()$/;"	f
+func_gitignore_entries	/Users/yufei/codes/libtool/bootstrap	/^func_gitignore_entries ()$/;"	f
+func_gnulib_tool	/Users/yufei/codes/libtool/bootstrap	/^func_gnulib_tool ()$/;"	f
+func_gnulib_tool_copy_file	/Users/yufei/codes/libtool/bootstrap	/^func_gnulib_tool_copy_file ()$/;"	f
+func_grep	/Users/yufei/codes/libtool/bootstrap	/^func_grep ()$/;"	f
+func_grep_q	/Users/yufei/codes/libtool/bootstrap	/^func_grep_q ()$/;"	f
+func_help	/Users/yufei/codes/libtool/bootstrap	/^func_help ()$/;"	f
+func_hookable	/Users/yufei/codes/libtool/bootstrap	/^func_hookable ()$/;"	f
+func_ifcontains	/Users/yufei/codes/libtool/bootstrap	/^func_ifcontains ()$/;"	f
+func_init	/Users/yufei/codes/libtool/bootstrap	/^func_init ()$/;"	f
+func_insert_if_absent	/Users/yufei/codes/libtool/bootstrap	/^func_insert_if_absent ()$/;"	f
+func_install_gnulib_non_module_files	/Users/yufei/codes/libtool/bootstrap	/^func_install_gnulib_non_module_files ()$/;"	f
+func_internal_error	/Users/yufei/codes/libtool/bootstrap	/^func_internal_error ()$/;"	f
+func_len	/Users/yufei/codes/libtool/bootstrap	/^  func_len ()$/;"	f
+func_libtoolize	/Users/yufei/codes/libtool/bootstrap	/^func_libtoolize ()$/;"	f
+func_lt_ver	/Users/yufei/codes/libtool/bootstrap	/^func_lt_ver ()$/;"	f
+func_main	/Users/yufei/codes/libtool/bootstrap	/^func_main ()$/;"	f
+func_missing_arg	/Users/yufei/codes/libtool/bootstrap	/^func_missing_arg ()$/;"	f
+func_mkdir_p	/Users/yufei/codes/libtool/bootstrap	/^func_mkdir_p ()$/;"	f
+func_mktempdir	/Users/yufei/codes/libtool/bootstrap	/^func_mktempdir ()$/;"	f
+func_normal_abspath	/Users/yufei/codes/libtool/bootstrap	/^func_normal_abspath ()$/;"	f
+func_notquiet	/Users/yufei/codes/libtool/bootstrap	/^func_notquiet ()$/;"	f
+func_options	/Users/yufei/codes/libtool/bootstrap	/^func_options ()$/;"	f
+func_options_finish	/Users/yufei/codes/libtool/bootstrap	/^func_options_finish ()$/;"	f
+func_options_prep	/Users/yufei/codes/libtool/bootstrap	/^func_options_prep ()$/;"	f
+func_parse_options	/Users/yufei/codes/libtool/bootstrap	/^func_parse_options ()$/;"	f
+func_path_progs	/Users/yufei/codes/libtool/bootstrap	/^func_path_progs ()$/;"	f
+func_permissions_error	/Users/yufei/codes/libtool/bootstrap	/^func_permissions_error ()$/;"	f
+func_prep	/Users/yufei/codes/libtool/bootstrap	/^func_prep ()$/;"	f
+func_propagate_result	/Users/yufei/codes/libtool/bootstrap	/^func_propagate_result ()$/;"	f
+func_quote	/Users/yufei/codes/libtool/bootstrap	/^func_quote ()$/;"	f
+func_quote_arg	/Users/yufei/codes/libtool/bootstrap	/^func_quote_arg ()$/;"	f
+func_quote_portable	/Users/yufei/codes/libtool/bootstrap	/^func_quote_portable ()$/;"	f
+func_quotefast_eval	/Users/yufei/codes/libtool/bootstrap	/^    func_quotefast_eval ()$/;"	f
+func_quotefast_eval	/Users/yufei/codes/libtool/bootstrap	/^  func_quotefast_eval ()$/;"	f
+func_reconfigure	/Users/yufei/codes/libtool/bootstrap	/^func_reconfigure ()$/;"	f
+func_relative_path	/Users/yufei/codes/libtool/bootstrap	/^func_relative_path ()$/;"	f
+func_remove_hook	/Users/yufei/codes/libtool/bootstrap	/^func_remove_hook ()$/;"	f
+func_require_aclocal_amflags	/Users/yufei/codes/libtool/bootstrap	/^func_require_aclocal_amflags ()$/;"	f
+func_require_autoheader	/Users/yufei/codes/libtool/bootstrap	/^func_require_autoheader ()$/;"	f
+func_require_automake_options	/Users/yufei/codes/libtool/bootstrap	/^func_require_automake_options ()$/;"	f
+func_require_autopoint	/Users/yufei/codes/libtool/bootstrap	/^func_require_autopoint ()$/;"	f
+func_require_bootstrap_uptodate	/Users/yufei/codes/libtool/bootstrap	/^func_require_bootstrap_uptodate ()$/;"	f
+func_require_build_aux	/Users/yufei/codes/libtool/bootstrap	/^func_require_build_aux ()$/;"	f
+func_require_buildreq_autobuild	/Users/yufei/codes/libtool/bootstrap	/^func_require_buildreq_autobuild ()$/;"	f
+func_require_buildreq_automake	/Users/yufei/codes/libtool/bootstrap	/^func_require_buildreq_automake ()$/;"	f
+func_require_buildreq_patch	/Users/yufei/codes/libtool/bootstrap	/^func_require_buildreq_patch ()$/;"	f
+func_require_buildtools_uptodate	/Users/yufei/codes/libtool/bootstrap	/^func_require_buildtools_uptodate ()$/;"	f
+func_require_check_ifs_backslash	/Users/yufei/codes/libtool/bootstrap	/^func_require_check_ifs_backslash ()$/;"	f
+func_require_checkout_only_file	/Users/yufei/codes/libtool/bootstrap	/^func_require_checkout_only_file ()$/;"	f
+func_require_configure_ac	/Users/yufei/codes/libtool/bootstrap	/^func_require_configure_ac ()$/;"	f
+func_require_copyright_holder	/Users/yufei/codes/libtool/bootstrap	/^func_require_copyright_holder ()$/;"	f
+func_require_doc_base	/Users/yufei/codes/libtool/bootstrap	/^func_require_doc_base ()$/;"	f
+func_require_dotgitmodules	/Users/yufei/codes/libtool/bootstrap	/^func_require_dotgitmodules ()$/;"	f
+func_require_dotgitmodules_parameters	/Users/yufei/codes/libtool/bootstrap	/^func_require_dotgitmodules_parameters ()$/;"	f
+func_require_extra_locale_categories	/Users/yufei/codes/libtool/bootstrap	/^func_require_extra_locale_categories ()$/;"	f
+func_require_git	/Users/yufei/codes/libtool/bootstrap	/^func_require_git ()$/;"	f
+func_require_gnu_m4	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnu_m4 ()$/;"	f
+func_require_gnulib_cache	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_cache ()$/;"	f
+func_require_gnulib_copy_cmd	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_copy_cmd ()$/;"	f
+func_require_gnulib_git_submodules	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_git_submodules ()$/;"	f
+func_require_gnulib_merge_changelog	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_merge_changelog ()$/;"	f
+func_require_gnulib_mk	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_mk ()$/;"	f
+func_require_gnulib_name	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_name ()$/;"	f
+func_require_gnulib_submodule	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_submodule ()$/;"	f
+func_require_gnulib_tool	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_tool ()$/;"	f
+func_require_gnulib_tool_base_options	/Users/yufei/codes/libtool/bootstrap	/^func_require_gnulib_tool_base_options ()$/;"	f
+func_require_libtoolize	/Users/yufei/codes/libtool/bootstrap	/^func_require_libtoolize ()$/;"	f
+func_require_local_gl_path	/Users/yufei/codes/libtool/bootstrap	/^func_require_local_gl_path ()$/;"	f
+func_require_macro_dir	/Users/yufei/codes/libtool/bootstrap	/^func_require_macro_dir ()$/;"	f
+func_require_makefile_am	/Users/yufei/codes/libtool/bootstrap	/^func_require_makefile_am ()$/;"	f
+func_require_package	/Users/yufei/codes/libtool/bootstrap	/^func_require_package ()$/;"	f
+func_require_package_bugreport	/Users/yufei/codes/libtool/bootstrap	/^func_require_package_bugreport ()$/;"	f
+func_require_package_name	/Users/yufei/codes/libtool/bootstrap	/^func_require_package_name ()$/;"	f
+func_require_package_version	/Users/yufei/codes/libtool/bootstrap	/^func_require_package_version ()$/;"	f
+func_require_patch	/Users/yufei/codes/libtool/bootstrap	/^func_require_patch ()$/;"	f
+func_require_source_base	/Users/yufei/codes/libtool/bootstrap	/^func_require_source_base ()$/;"	f
+func_require_term_colors	/Users/yufei/codes/libtool/bootstrap	/^func_require_term_colors ()$/;"	f
+func_require_vc_ignore_files	/Users/yufei/codes/libtool/bootstrap	/^func_require_vc_ignore_files ()$/;"	f
+func_run_hooks	/Users/yufei/codes/libtool/bootstrap	/^func_run_hooks ()$/;"	f
+func_show_eval	/Users/yufei/codes/libtool/bootstrap	/^func_show_eval ()$/;"	f
+func_show_eval_locale	/Users/yufei/codes/libtool/bootstrap	/^func_show_eval_locale ()$/;"	f
+func_skip_po_recommendation	/Users/yufei/codes/libtool/bootstrap	/^func_skip_po_recommendation ()$/;"	f
+func_sort_ver	/Users/yufei/codes/libtool/bootstrap	/^func_sort_ver ()$/;"	f
+func_split_equals	/Users/yufei/codes/libtool/bootstrap	/^  func_split_equals ()$/;"	f
+func_split_short_opt	/Users/yufei/codes/libtool/bootstrap	/^  func_split_short_opt ()$/;"	f
+func_stripname	/Users/yufei/codes/libtool/bootstrap	/^  func_stripname ()$/;"	f
+func_strpad	/Users/yufei/codes/libtool/bootstrap	/^func_strpad ()$/;"	f
+func_strrow	/Users/yufei/codes/libtool/bootstrap	/^func_strrow ()$/;"	f
+func_strrpad	/Users/yufei/codes/libtool/bootstrap	/^func_strrpad ()$/;"	f
+func_strtable	/Users/yufei/codes/libtool/bootstrap	/^func_strtable ()$/;"	f
+func_tool_version_number	/Users/yufei/codes/libtool/bootstrap	/^func_tool_version_number ()$/;"	f
+func_tool_version_output	/Users/yufei/codes/libtool/bootstrap	/^func_tool_version_output ()$/;"	f
+func_tr_sh	/Users/yufei/codes/libtool/bootstrap	/^func_tr_sh ()$/;"	f
+func_truncate_cmd	/Users/yufei/codes/libtool/bootstrap	/^func_truncate_cmd ()$/;"	f
+func_unset	/Users/yufei/codes/libtool/bootstrap	/^func_unset ()$/;"	f
+func_update_dotversion	/Users/yufei/codes/libtool/bootstrap	/^func_update_dotversion ()$/;"	f
+func_update_po_files	/Users/yufei/codes/libtool/bootstrap	/^func_update_po_files ()$/;"	f
+func_update_translations	/Users/yufei/codes/libtool/bootstrap	/^func_update_translations ()$/;"	f
+func_usage	/Users/yufei/codes/libtool/bootstrap	/^func_usage ()$/;"	f
+func_usage_message	/Users/yufei/codes/libtool/bootstrap	/^func_usage_message ()$/;"	f
+func_validate_options	/Users/yufei/codes/libtool/bootstrap	/^func_validate_options ()$/;"	f
+func_verbose	/Users/yufei/codes/libtool/bootstrap	/^func_verbose ()$/;"	f
+func_version	/Users/yufei/codes/libtool/bootstrap	/^func_version ()$/;"	f
+func_warn_and_continue	/Users/yufei/codes/libtool/bootstrap	/^func_warn_and_continue ()$/;"	f
+func_warning	/Users/yufei/codes/libtool/bootstrap	/^func_warning ()$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^#define get_vtable	/;"	d	file:
+get_vtable	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^get_vtable (lt_user_data loader_data)$/;"	f
+get_vtable	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define get_vtable	/;"	d	file:
+getthreaderrormode	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^static getthreaderrormode_type *getthreaderrormode = wrap_getthreaderrormode;$/;"	v	file:
+getthreaderrormode_type	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^typedef DWORD (WINAPI getthreaderrormode_type) (void);$/;"	t	file:
+hSearch	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^  HANDLE hSearch;$/;"	m	struct:__anon4
+handles	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	lt_dlhandle	handles	= 0;$/;"	v	file:
+has_library_ext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^has_library_ext (const char *filename)$/;"	f	file:
+id_string	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^  char *id_string;$/;"	m	struct:__anon3	file:
+iface	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^  lt_dlhandle_interface *iface;$/;"	m	struct:__anon3	file:
+iface_id	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^static lt_dlinterface_id iface_id = 0;$/;"	v	file:
+info	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  lt_dlinfo		info;		\/* user visible fields *\/$/;"	m	struct:lt__handle
+initialized	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	int		initialized	= 0;$/;"	v	file:
+interface_data	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  lt_interface_data *	interface_data;	\/* per caller associated data *\/$/;"	m	struct:lt__handle
+is_resident	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  unsigned int	is_resident:1;	\/* module can't be unloaded. *\/$/;"	m	struct:lt__advise
+is_resident	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  unsigned int	is_resident:1;	\/* module can't be unloaded. *\/$/;"	m	struct:__anon2
+is_symglobal	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  unsigned int	is_symglobal:1;	\/* module symbols can satisfy$/;"	m	struct:lt__advise
+is_symglobal	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  unsigned int	is_symglobal:1;	\/* module symbols can satisfy$/;"	m	struct:__anon2
+is_symlocal	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  unsigned int	is_symlocal:1;	\/* module symbols are only available$/;"	m	struct:lt__advise
+is_symlocal	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  unsigned int	is_symlocal:1;	\/* module symbols are only available$/;"	m	struct:__anon2
+key	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  lt_dlinterface_id	key;$/;"	m	struct:__anon7
+last_error	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^static const char	*last_error	= 0;$/;"	v	file:
+libext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static  const char	libext[]		= LT_LIBEXT;$/;"	v	file:
+libltdl_dld_link_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dld_link_la_LDFLAGS	= -module -avoid-version$/;"	m
+libltdl_dld_link_la_LIBADD	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dld_link_la_LIBADD	= -ldld$/;"	m
+libltdl_dld_link_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dld_link_la_SOURCES	= libltdl\/loaders\/dld_link.c$/;"	m
+libltdl_dlopen_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dlopen_la_LDFLAGS	= -module -avoid-version$/;"	m
+libltdl_dlopen_la_LIBADD	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dlopen_la_LIBADD	= $(LIBADD_DLOPEN)$/;"	m
+libltdl_dlopen_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dlopen_la_SOURCES	= libltdl\/loaders\/dlopen.c$/;"	m
+libltdl_dyld_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dyld_la_LDFLAGS		= -module -avoid-version$/;"	m
+libltdl_dyld_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_dyld_la_SOURCES		= libltdl\/loaders\/dyld.c$/;"	m
+libltdl_libltdl_la_CPPFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdl_la_CPPFLAGS	= -DLTDLOPEN=$(LTDLOPEN) $(AM_CPPFLAGS)$/;"	m
+libltdl_libltdl_la_DEPENDENCIES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdl_la_DEPENDENCIES	= $(LT_DLLOADERS) $(LTLIBOBJS)$/;"	m
+libltdl_libltdl_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdl_la_LDFLAGS	= $(AM_LDFLAGS) $(LTDL_VERSION_INFO) $(LT_DLPREOPEN)$/;"	m
+libltdl_libltdl_la_LIBADD	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdl_la_LIBADD	= $(LTLIBOBJS)$/;"	m
+libltdl_libltdl_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdl_la_SOURCES = libltdl\/libltdl\/lt__alloc.h \\$/;"	m
+libltdl_libltdlc_la_CPPFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdlc_la_CPPFLAGS	= -DLTDLOPEN=$(LTDLOPEN)c $(AM_CPPFLAGS)$/;"	m
+libltdl_libltdlc_la_DEPENDENCIES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdlc_la_DEPENDENCIES= $(libltdl_libltdl_la_DEPENDENCIES)$/;"	m
+libltdl_libltdlc_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdlc_la_LDFLAGS	= $(AM_LDFLAGS) $(LT_DLPREOPEN)$/;"	m
+libltdl_libltdlc_la_LIBADD	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdlc_la_LIBADD	= $(libltdl_libltdl_la_LIBADD)$/;"	m
+libltdl_libltdlc_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_libltdlc_la_SOURCES	= $(libltdl_libltdl_la_SOURCES)$/;"	m
+libltdl_load_add_on_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_load_add_on_la_LDFLAGS	= -module -avoid-version$/;"	m
+libltdl_load_add_on_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_load_add_on_la_SOURCES	= libltdl\/loaders\/load_add_on.c$/;"	m
+libltdl_loadlibrary_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_loadlibrary_la_LDFLAGS	= -module -avoid-version$/;"	m
+libltdl_loadlibrary_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_loadlibrary_la_SOURCES	= libltdl\/loaders\/loadlibrary.c$/;"	m
+libltdl_shl_load_la_LDFLAGS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_shl_load_la_LDFLAGS	= -module -avoid-version$/;"	m
+libltdl_shl_load_la_LIBADD	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_shl_load_la_LIBADD	= $(LIBADD_SHL_LOAD)$/;"	m
+libltdl_shl_load_la_SOURCES	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^libltdl_shl_load_la_SOURCES	= libltdl\/loaders\/shl_load.c$/;"	m
+libprefix	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static  const char	libprefix[]		= LT_LIBPREFIX;$/;"	v	file:
+list_files_by_dir	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^list_files_by_dir (const char *dirnam, char **pargz, size_t *pargz_len)$/;"	f	file:
+load_deplibs	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^load_deplibs (lt_dlhandle handle, char * deplibs LT__UNUSED)$/;"	f	file:
+load_deplibs	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^load_deplibs (lt_dlhandle handle, char *deplibs)$/;"	f	file:
+loader_callback	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^loader_callback (SList *item, void *userdata)$/;"	f	file:
+loader_dump_callback	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^loader_dump_callback (SList *item, void *userdata)$/;"	f	file:
+loader_init	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^loader_init (lt_get_vtable *vtable_func, lt_user_data data)$/;"	f	file:
+loader_init_callback	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^loader_init_callback (lt_dlhandle handle)$/;"	f	file:
+loaders	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^static	SList    *loaders		= 0;$/;"	v	file:
+loadlibraryerror	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^loadlibraryerror (const char *default_errmsg)$/;"	f	file:
+local-checks-to-fix	/Users/yufei/codes/libtool/cfg.mk	/^local-checks-to-fix =				\\$/;"	m
+local-checks-to-skip	/Users/yufei/codes/libtool/cfg.mk	/^local-checks-to-skip =				\\$/;"	m
+lt__addimage	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^static const mach_header *(*lt__addimage)	(const char *image_name,$/;"	v	file:
+lt__advise	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^struct lt__advise {$/;"	s
+lt__alloc_die	/Users/yufei/codes/libtool/libltdl/libltdl/lt__alloc.h	/^LT_SCOPE void (*lt__alloc_die) (void);$/;"	v
+lt__alloc_die	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^void (*lt__alloc_die) (void) = alloc_die_default;$/;"	v
+lt__alloc_die_callback	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt__alloc_die_callback (void)$/;"	f
+lt__error_string	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^lt__error_string (int errorcode)$/;"	f
+lt__get_last_error	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^lt__get_last_error (void)$/;"	f
+lt__handle	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^struct lt__handle {$/;"	s
+lt__header_get_instnam	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^lt__header_get_instnam (const mach_header *mh)$/;"	f	file:
+lt__image_symbol	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^static NSSymbol	(*lt__image_symbol)		(const mach_header *image,$/;"	v	file:
+lt__image_symbol_p	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^static enum DYLD_BOOL (*lt__image_symbol_p)	(const mach_header *image,$/;"	v	typeref:enum:lt__image_symbol_p	file:
+lt__interface_id	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^} lt__interface_id;$/;"	t	typeref:struct:__anon3	file:
+lt__linkedlib_symbol	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^lt__linkedlib_symbol (const char *symname, const mach_header *mh)$/;"	f	file:
+lt__malloc	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^lt__malloc (size_t n)$/;"	f
+lt__match_loadedlib	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^lt__match_loadedlib (const char *name)$/;"	f	file:
+lt__memdup	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^lt__memdup (void const *mem, size_t n)$/;"	f
+lt__module_export	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^static enum DYLD_BOOL (*lt__module_export)	(NSModule module) = 0;$/;"	v	typeref:enum:lt__module_export	file:
+lt__nsmodule_get_header	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^lt__nsmodule_get_header (NSModule module)$/;"	f	file:
+lt__realloc	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^lt__realloc (void *mem, size_t n)$/;"	f
+lt__set_last_error	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^lt__set_last_error (const char *errormsg)$/;"	f
+lt__strdup	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^lt__strdup (const char *string)$/;"	f
+lt__zalloc	/Users/yufei/codes/libtool/libltdl/lt__alloc.c	/^lt__zalloc (size_t n)$/;"	f
+lt_argz_insert	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_argz_insert (char **pargz, size_t *pargz_len, char *before,$/;"	f	file:
+lt_argz_insertdir	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_argz_insertdir (char **pargz, size_t *pargz_len, const char *dirnam,$/;"	f	file:
+lt_argz_insertinorder	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_argz_insertinorder (char **pargz, size_t *pargz_len, const char *entry)$/;"	f	file:
+lt_dladderror	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^lt_dladderror (const char *diagnostic)$/;"	f
+lt_dladdsearchdir	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladdsearchdir (const char *search_dir)$/;"	f
+lt_dladvise	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef struct lt__advise *	lt_dladvise;$/;"	t	typeref:struct:lt__advise
+lt_dladvise_destroy	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_destroy (lt_dladvise *padvise)$/;"	f
+lt_dladvise_ext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_ext (lt_dladvise *padvise)$/;"	f
+lt_dladvise_global	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_global (lt_dladvise *padvise)$/;"	f
+lt_dladvise_init	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_init (lt_dladvise *padvise)$/;"	f
+lt_dladvise_local	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_local (lt_dladvise *padvise)$/;"	f
+lt_dladvise_preload	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_preload (lt_dladvise *padvise)$/;"	f
+lt_dladvise_resident	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dladvise_resident (lt_dladvise *padvise)$/;"	f
+lt_dlcaller_get_data	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlcaller_get_data (lt_dlinterface_id key, lt_dlhandle handle)$/;"	f
+lt_dlcaller_set_data	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlcaller_set_data (lt_dlinterface_id key, lt_dlhandle handle, void *data)$/;"	f
+lt_dlclose	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlclose (lt_dlhandle handle)$/;"	f
+lt_dlerror	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlerror (void)$/;"	f
+lt_dlerror_table	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^	lt_dlerror_table$/;"	e	enum:__anon8
+lt_dlerror_table	/Users/yufei/codes/libtool/libltdl/libltdl/lt_error.h	/^#define lt_dlerror_table	/;"	d
+lt_dlexit	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlexit (void)$/;"	f
+lt_dlforeachfile	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlforeachfile (const char *search_path,$/;"	f
+lt_dlgetinfo	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlgetinfo (lt_dlhandle handle)$/;"	f
+lt_dlgetsearchpath	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlgetsearchpath (void)$/;"	f
+lt_dlhandle	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^typedef	struct lt__handle *lt_dlhandle;	\/* A loaded module.  *\/$/;"	t	typeref:struct:lt__handle
+lt_dlhandle_fetch	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlhandle_fetch (lt_dlinterface_id iface, const char *module_name)$/;"	f
+lt_dlhandle_interface	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^typedef int lt_dlhandle_interface (lt_dlhandle handle, const char *id_string);$/;"	t
+lt_dlhandle_iterate	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlhandle_iterate (lt_dlinterface_id iface, lt_dlhandle place)$/;"	f
+lt_dlhandle_map	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlhandle_map (lt_dlinterface_id iface,$/;"	f
+lt_dlinfo	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^} lt_dlinfo;$/;"	t	typeref:struct:__anon2
+lt_dlinit	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlinit (void)$/;"	f
+lt_dlinsertsearchdir	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlinsertsearchdir (const char *before, const char *search_dir)$/;"	f
+lt_dlinterface_free	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^void lt_dlinterface_free (lt_dlinterface_id key)$/;"	f
+lt_dlinterface_id	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^typedef void * lt_dlinterface_id;$/;"	t
+lt_dlinterface_register	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlinterface_register (const char *id_string, lt_dlhandle_interface *iface)$/;"	f
+lt_dlisresident	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlisresident	(lt_dlhandle handle)$/;"	f
+lt_dlloader	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef	void *	lt_dlloader;$/;"	t
+lt_dlloader_add	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^lt_dlloader_add (const lt_dlvtable *vtable)$/;"	f
+lt_dlloader_dump	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^lt_dlloader_dump (void)$/;"	f
+lt_dlloader_exit	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef int	    lt_dlloader_exit	(lt_user_data data);$/;"	t
+lt_dlloader_find	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^lt_dlloader_find (const char *name)$/;"	f
+lt_dlloader_get	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^lt_dlloader_get	(lt_dlloader loader)$/;"	f
+lt_dlloader_init	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef int	    lt_dlloader_init	(lt_user_data data);$/;"	t
+lt_dlloader_next	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^lt_dlloader_next (lt_dlloader loader)$/;"	f
+lt_dlloader_priority	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^} lt_dlloader_priority;$/;"	t	typeref:enum:__anon5
+lt_dlloader_remove	/Users/yufei/codes/libtool/libltdl/lt_dlloader.c	/^lt_dlloader_remove (const char *name)$/;"	f
+lt_dlmakeresident	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlmakeresident (lt_dlhandle handle)$/;"	f
+lt_dlopen	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlopen (const char *filename)$/;"	f
+lt_dlopenadvise	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlopenadvise (const char *filename, lt_dladvise advise)$/;"	f
+lt_dlopenext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlopenext (const char *filename)$/;"	f
+lt_dlpath_insertdir	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlpath_insertdir (char **ppath, char *before, const char *dir)$/;"	f	file:
+lt_dlpreload	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^lt_dlpreload (const lt_dlsymlist *preloaded)$/;"	f
+lt_dlpreload_callback_func	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^typedef int lt_dlpreload_callback_func (lt_dlhandle handle);$/;"	t
+lt_dlpreload_default	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^lt_dlpreload_default (const lt_dlsymlist *preloaded)$/;"	f
+lt_dlpreload_open	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^lt_dlpreload_open (const char *originator, lt_dlpreload_callback_func *func)$/;"	f
+lt_dlseterror	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^lt_dlseterror (int errindex)$/;"	f
+lt_dlsetsearchpath	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlsetsearchpath (const char *search_path)$/;"	f
+lt_dlsym	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^lt_dlsym (lt_dlhandle place, const char *symbol)$/;"	f
+lt_dlsymlist	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^} lt_dlsymlist;$/;"	t	typeref:struct:__anon1
+lt_dlvtable	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^} lt_dlvtable;$/;"	t	typeref:struct:__anon6
+lt_find_sym	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef void *	    lt_find_sym		(lt_user_data data, lt_module module,$/;"	t
+lt_get_vtable	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef  const lt_dlvtable *lt_get_vtable	(lt_user_data data);$/;"	t
+lt_interface_data	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^} lt_interface_data;$/;"	t	typeref:struct:__anon7
+lt_module	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef void *	lt_module;$/;"	t
+lt_module_close	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef int	    lt_module_close	(lt_user_data data,$/;"	t
+lt_module_open	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef lt_module   lt_module_open	(lt_user_data data,$/;"	t
+lt_preloaded_symbols	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^#define lt_preloaded_symbols	/;"	d
+lt_ptr	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^#define lt_ptr /;"	d
+lt_strlcat	/Users/yufei/codes/libtool/libltdl/lt__strl.c	/^lt_strlcat(char *dst, const char *src, const size_t dstsize)$/;"	f
+lt_strlcpy	/Users/yufei/codes/libtool/libltdl/lt__strl.c	/^lt_strlcpy(char *dst, const char *src, const size_t dstsize)$/;"	f
+lt_user_data	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^typedef void *	lt_user_data;$/;"	t
+ltdlinclude_HEADERS	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^ltdlinclude_HEADERS	= libltdl\/libltdl\/lt_system.h \\$/;"	m
+ltdlincludedir	/Users/yufei/codes/libtool/libltdl/ltdl.mk	/^ltdlincludedir		= $(includedir)\/libltdl$/;"	m
+mach_header	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^typedef struct mach_header mach_header;$/;"	t	typeref:struct:mach_header	file:
+manual_title	/Users/yufei/codes/libtool/cfg.mk	/^manual_title = Portable Dynamic Shared Object Management$/;"	m
+module	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  lt_module		module;		\/* system module handle *\/$/;"	m	struct:lt__handle
+module_close	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_module_close *	module_close;$/;"	m	struct:__anon6
+module_open	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_module_open *	module_open;$/;"	m	struct:__anon6
+name	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  const char *		name;$/;"	m	struct:__anon6
+name	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  char *	name;		\/* module name *\/$/;"	m	struct:__anon2
+name	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  const char *name;$/;"	m	struct:__anon1
+next	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  lt_dlhandle		next;$/;"	m	struct:lt__handle
+next	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^  struct slist *next;		\/* chain forward pointer*\/$/;"	m	struct:slist	typeref:struct:slist::slist
+next	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^  struct symlist_chain *next;$/;"	m	struct:symlist_chain	typeref:struct:symlist_chain::symlist_chain	file:
+objdir	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	const char	objdir[]		= LT_OBJDIR;$/;"	v	file:
+old_NEWS_hash	/Users/yufei/codes/libtool/cfg.mk	/^old_NEWS_hash := 694e28388e83b832b0d7614e305b107e$/;"	m
+opendir	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define opendir	/;"	d
+opendir	/Users/yufei/codes/libtool/libltdl/lt__dirent.c	/^opendir (const char *path)$/;"	f
+parse_dotla_file	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^parse_dotla_file(FILE *file, char **dlname, char **libdir, char **deplibs,$/;"	f	file:
+preloaded_symbols	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^#define preloaded_symbols	/;"	d	file:
+preloaded_symlists	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^static symlist_chain	       *preloaded_symlists		= 0;$/;"	v	file:
+priority	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  lt_dlloader_priority	priority;$/;"	m	struct:__anon6
+readdir	/Users/yufei/codes/libtool/libltdl/libltdl/lt__dirent.h	/^#  define readdir	/;"	d
+readdir	/Users/yufei/codes/libtool/libltdl/lt__dirent.c	/^readdir (DIR *entry)$/;"	f
+ref_count	/Users/yufei/codes/libtool/libltdl/ltdl.h	/^  int		ref_count;	\/* number of times lt_dlopened minus$/;"	m	struct:__anon2
+setthreaderrormode	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^static setthreaderrormode_type *setthreaderrormode = wrap_setthreaderrormode;$/;"	v	file:
+setthreaderrormode_type	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^typedef BOOL (WINAPI setthreaderrormode_type) (DWORD, DWORD *);$/;"	t	file:
+shared_ext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	const char	shared_ext[]		= LT_SHARED_EXT;$/;"	v	file:
+shlib_ext	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	const char	shlib_ext[]		= LT_MODULE_EXT;$/;"	v	file:
+slist	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^typedef struct slist {$/;"	s
+slist_box	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_box	/;"	d
+slist_box	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_box (const void *userdata)$/;"	f
+slist_concat	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_concat	/;"	d
+slist_concat	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_concat (SList *head, SList *tail)$/;"	f
+slist_cons	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_cons	/;"	d
+slist_cons	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_cons (SList *item, SList *slist)$/;"	f
+slist_delete	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_delete	/;"	d
+slist_delete	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_delete (SList *head, void (*delete_fct) (void *item))$/;"	f
+slist_find	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_find	/;"	d
+slist_find	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_find (SList *slist, SListCallback *find, void *matchdata)$/;"	f
+slist_foreach	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_foreach	/;"	d
+slist_foreach	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_foreach (SList *slist, SListCallback *foreach, void *userdata)$/;"	f
+slist_length	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_length	/;"	d
+slist_length	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_length (SList *slist)$/;"	f
+slist_nth	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_nth	/;"	d
+slist_nth	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_nth (SList *slist, size_t n)$/;"	f
+slist_remove	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_remove	/;"	d
+slist_remove	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_remove (SList **phead, SListCallback *find, void *matchdata)$/;"	f
+slist_reverse	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_reverse	/;"	d
+slist_reverse	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_reverse (SList *slist)$/;"	f
+slist_sort	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_sort	/;"	d
+slist_sort	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_sort (SList *slist, SListCompare *compare, void *userdata)$/;"	f
+slist_sort_merge	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_sort_merge (SList *left, SList *right, SListCompare *compare,$/;"	f	file:
+slist_tail	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_tail	/;"	d
+slist_tail	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_tail (SList *slist)$/;"	f
+slist_unbox	/Users/yufei/codes/libtool/libltdl/libltdl/lt__glibc.h	/^# define slist_unbox	/;"	d
+slist_unbox	/Users/yufei/codes/libtool/libltdl/slist.c	/^slist_unbox (SList *item)$/;"	f
+solution	/Users/yufei/codes/libtool/mail/deplibs.html	/^<h2><a name="solution">The solution<\/a><\/h2>$/;"	a
+strlcat	/Users/yufei/codes/libtool/libltdl/libltdl/lt__strl.h	/^#  define strlcat(/;"	d
+strlcpy	/Users/yufei/codes/libtool/libltdl/libltdl/lt__strl.h	/^#  define strlcpy(/;"	d
+sym_prefix	/Users/yufei/codes/libtool/libltdl/libltdl/lt_dlloader.h	/^  const char *		sym_prefix;$/;"	m	struct:__anon6
+symlist	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^  const lt_dlsymlist   *symlist;$/;"	m	struct:symlist_chain	file:
+symlist_chain	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^typedef struct symlist_chain$/;"	s	file:
+symlist_chain	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^} symlist_chain;$/;"	t	typeref:struct:symlist_chain	file:
+sys_dlsearch_path	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	const char	sys_dlsearch_path[]	= LT_DLSEARCH_PATH;$/;"	v	file:
+system	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  void *		system;		\/* system specific data *\/$/;"	m	struct:lt__handle
+trim	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^trim (char **dest, const char *str)$/;"	f	file:
+try_dlopen	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^try_dlopen (lt_dlhandle *phandle, const char *filename, const char *ext,$/;"	f	file:
+try_ext	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  unsigned int	try_ext:1;	\/* try system library extensions.  *\/$/;"	m	struct:lt__advise
+try_preload_only	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  unsigned int	try_preload_only:1;\/* only preloaded modules will be tried. *\/$/;"	m	struct:lt__advise
+tryall_dlopen	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^tryall_dlopen (lt_dlhandle *phandle, const char *filename,$/;"	f	file:
+tryall_dlopen_module	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^tryall_dlopen_module (lt_dlhandle *handle, const char *prefix,$/;"	f	file:
+unload_deplibs	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^unload_deplibs (lt_dlhandle handle)$/;"	f	file:
+update-copyright-env	/Users/yufei/codes/libtool/cfg.mk	/^update-copyright-env := UPDATE_COPYRIGHT_FORCE=1 UPDATE_COPYRIGHT_USE_INTERVALS=1$/;"	m
+user_error_strings	/Users/yufei/codes/libtool/libltdl/lt_error.c	/^static	const char    **user_error_strings	= 0;$/;"	v	file:
+user_search_path	/Users/yufei/codes/libtool/libltdl/ltdl.c	/^static	char	       *user_search_path= 0;$/;"	v	file:
+userdata	/Users/yufei/codes/libtool/libltdl/libltdl/slist.h	/^  const void *userdata;		\/* for boxed 'SList' item *\/$/;"	m	struct:slist
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_exit	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^vl_exit (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vl_init	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^vl_init (lt_user_data loader_data)$/;"	f	file:
+vl_init	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^vl_init (lt_user_data loader_data LT__UNUSED)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^vm_close (lt_user_data loader_data LT__UNUSED, lt_module module)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^vm_close (lt_user_data loader_data LT__UNUSED, lt_module module)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^vm_close (lt_user_data loader_data, lt_module module)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^vm_close (lt_user_data loader_data LT__UNUSED, lt_module module)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^vm_close (lt_user_data loader_data LT__UNUSED, lt_module module)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^vm_close (lt_user_data loader_data LT__UNUSED, lt_module module LT__UNUSED)$/;"	f	file:
+vm_close	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^vm_close (lt_user_data loader_data LT__UNUSED, lt_module module)$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^vm_open (lt_user_data loader_data LT__UNUSED, const char *filename,$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^vm_open (lt_user_data loader_data LT__UNUSED, const char *filename,$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^vm_open (lt_user_data loader_data, const char *filename,$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^vm_open (lt_user_data loader_data LT__UNUSED, const char *filename,$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^vm_open (lt_user_data loader_data LT__UNUSED, const char *filename,$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^vm_open (lt_user_data loader_data LT__UNUSED, const char *filename,$/;"	f	file:
+vm_open	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^vm_open (lt_user_data loader_data LT__UNUSED, const char *filename,$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^vm_sym (lt_user_data loader_data LT__UNUSED, lt_module module LT__UNUSED,$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^vm_sym (lt_user_data loader_data LT__UNUSED, lt_module module, const char *name)$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^vm_sym (lt_user_data loader_data, lt_module module, const char *name)$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^vm_sym (lt_user_data loader_data LT__UNUSED, lt_module module, const char *name)$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^vm_sym (lt_user_data loader_data LT__UNUSED, lt_module module, const char *name)$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^vm_sym (lt_user_data loader_data LT__UNUSED, lt_module module, const char *name)$/;"	f	file:
+vm_sym	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^vm_sym (lt_user_data loader_data LT__UNUSED, lt_module module, const char *name)$/;"	f	file:
+vtable	/Users/yufei/codes/libtool/libltdl/libltdl/lt__private.h	/^  const lt_dlvtable *	vtable;		\/* dlopening interface *\/$/;"	m	struct:lt__handle
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/dld_link.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/dlopen.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/dyld.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/load_add_on.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/preopen.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+vtable	/Users/yufei/codes/libtool/libltdl/loaders/shl_load.c	/^static lt_dlvtable *vtable = 0;$/;"	v	file:
+wrap_getthreaderrormode	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^wrap_getthreaderrormode (void)$/;"	f	file:
+wrap_setthreaderrormode	/Users/yufei/codes/libtool/libltdl/loaders/loadlibrary.c	/^wrap_setthreaderrormode (DWORD mode, DWORD *oldmode)$/;"	f	file:

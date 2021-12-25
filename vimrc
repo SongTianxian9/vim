@@ -15,13 +15,16 @@ autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
 call plug#begin('~/.vim/plugged')
 
 " colorscheme
-Plug 'joshdick/onedark.vim'
+" Plug 'joshdick/onedark.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'lifepillar/vim-gruvbox8'
-Plug 'rakr/vim-one'
+" Plug 'rakr/vim-one'
 
 " linestatus
-Plug 'itchyny/lightline.vim'
+" Plug 'itchyny/lightline.vim'
+Plug 'vim-airline/vim-airline'
+" Plug 'vim-airline/vim-airline-themes'
+Plug 'SongTianxian9/vim-airline-themes'
 
 " file navigation: <Leader>-n
 Plug 'preservim/nerdtree'
@@ -29,7 +32,28 @@ Plug 'preservim/nerdtree'
 " float terminal
 Plug 'voldikss/vim-floaterm'
 
-" tag
+" lsp
+Plug 'prabirshrestha/async.vim'
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
+
+" auto complete
+Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
+
+" snippet
+" Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'thomasfaingnaert/vim-lsp-snippets'
+Plug 'thomasfaingnaert/vim-lsp-ultisnips'
+" Plug 'hrsh7th/vim-vsnip'
+" Plug 'hrsh7th/vim-vsnip-integ'
+" Plug 'MarcWeber/vim-addon-manager'
+
+" zoom
+Plug 'dhruvasagar/vim-zoom'
+
+" ctags
 Plug 'ludovicchabant/vim-gutentags'
 " Plug 'skywind3000/gutentags_plus'
 Plug 'preservim/tagbar'
@@ -39,6 +63,17 @@ Plug 'tpope/vim-commentary'
 
 " auto pair
 Plug 'jiangmiao/auto-pairs'
+
+" tldr
+Plug 'wlemuel/vim-tldr'
+
+" leetcode
+Plug 'ianding1/leetcode.vim'
+
+" lint
+" Plug 'vim-syntastic/syntastic'
+" Plug 'dense-analysis/ale'
+
 
 " python
 " Plug 'davidhalter/jedi-vim'
@@ -57,16 +92,16 @@ filetype plugin indent on
 
 " colorscheme
 if has('gui_running')
-	set background=dark
-	" set background=light
-	" colorscheme onedark
-	colorscheme gruvbox8
+    set background=dark
+    " set background=light
+    " colorscheme onedark
+    colorscheme gruvbox8
 else
-	set t_Co=256
-	set background=dark
-	" set background=light
-	colorscheme gruvbox8
-	" colorscheme onedark
+    set t_Co=256
+    set background=dark
+    " set background=light
+    colorscheme gruvbox8
+    " colorscheme onedark
 endif
 " set background=dark        " for the light version
 " let g:one_allow_italics = 1 " I love italic for comments
@@ -90,18 +125,21 @@ set incsearch " incremental search (as string is being typed)
 set hls " highlight search
 set ignorecase
 set smartcase
+noremap n nzz
+noremap N Nzz
 
 " No annoying sound on errors
-set noerrorbells
-set novisualbell
-set t_vb=
+" set noerrorbells
+" set novisualbell
+" set t_vb=
+set belloff=all
 set tm=500
 
 " tab
-set noexpandtab
-set shiftwidth=8
+set expandtab
+set shiftwidth=4
 " set softtabstop=4
-set tabstop=8
+set tabstop=4
 
 " indent
 set ai "Auto indent
@@ -116,7 +154,7 @@ augroup CursorLineOnlyInActiveWindow
     autocmd VimEnter,WinEnter,BufWinEnter * setlocal cursorline
     autocmd WinLeave * setlocal nocursorline
 augroup END
-" Return to last edit position when opening files 
+" Return to last edit position when opening files
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 
 " window
@@ -136,7 +174,10 @@ set nowb
 set noswapfile
 
 " misc
-set listchars=tab:>>,nbsp:~ " set list to see tabs and non-breakable spaces
+set list
+set listchars=tab:>-,trail:-,nbsp:%,eol:<,extends:»,precedes:« " Unprintable chars mapping
+
+" set listchars=tab:>>,nbsp:~ " set list to see tabs and non-breakable spaces
 set showmatch
 set scrolloff=10 " show lines above and below cursor (when possible)
 set cmdheight=1
@@ -198,38 +239,41 @@ autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTr
 let g:onedark_hide_endofbuffer=1
 let g:onedark_terminal_italics=1
 
-" lightline 
-let g:lightline = {
-	\ 'colorscheme': 'powerline',
-	\ 'active': {
-	\   'left': [ [ 'Girl', 'paste' ],
-	\             [ 'readonly', 'filename', 'modified' ] ],
-	\   'right': [ [ 'lineinfo' ],
-	\              [ 'percent' ],
-	\              [ 'fileformat', 'fileencoding', 'filetype' ] ]
-	\ },
-	\ 'component': {
-	\   'Girl': 'YuFei 👫 XiaoQ ',
-	\   'Boy': 'დ 👫Yu Fei '
-	\ },
-	\ }
+" lightline
+" let g:lightline = {
+" 	\ 'colorscheme': 'powerline',
+" 	\ 'active': {
+" 	\   'left': [ [ 'Girl', 'paste' ],
+" 	\             [ 'readonly', 'filename', 'modified' ] ],
+" 	\   'right': [ [ 'lineinfo' ],
+" 	\              [ 'percent' ],
+" 	\              [ 'fileformat', 'fileencoding', 'filetype' ] ]
+" 	\ },
+" 	\ 'component': {
+" 	\   'Girl': 'YuFei 👫 XiaoQ ',
+" 	\   'Boy': 'დ 👫Yu Fei '
+" 	\ },
+" 	\ }
 
-
+" airline
+let g:airline_theme = 'kalisi'
+" call airline#parts#define_minwidth('YuFei 👫 XiaoQ', 50)
+let g:airline_section_c = airline#section#create_left([ 'YuFei 👫 XiaoQ', ' ', 'file'])
 " auto-pair
 " ----------
 "  avoid <c-H> delete char, weird thing
-" let g:AutoPairsMapCh = 0
-" let g:AutoPairsMapBS = 0
+let g:AutoPairsMapCh = 0
+let g:AutoPairsMapBS = 0
 "
 "
 "
 " vim-gutentags
 " python tag (put venv and .pytags under project)
- let g:gutentags_file_list_command = {
-     \ 'markers': {
-	 \ '.pytags': '~/.vim/help-sh/python_file_lister',
-	 \ },
-     \ }
+let g:gutentags_file_list_command = {
+ \ 'markers': {
+ \ '.pytags': '~/.vim/help-sh/python_file_lister',
+ \ },
+ \ }
 
  " gen tags or not
 set statusline+=%{gutentags#statusline()}
@@ -270,3 +314,84 @@ endif
 " let g:gutentags_define_advanced_commands = 1
 " tagbar
 nnoremap <c-g> :TagbarToggle<CR>
+
+" tldr
+let s:tldr_dir = expand('~/.vim/tldr')
+let g:gutentags_cache_dir = s:tldr_dir
+if !isdirectory(s:tldr_dir)
+   silent! call mkdir(s:tldr_dir, 'p')
+endif
+let g:tldr_directory_path = s:tldr_dir . '/tldr'
+let g:tldr_saved_zip_path = s:tldr_dir . '/tldr-source.zip'
+
+" zoom
+nmap <c-m> <Plug>(zoom-toggle)
+
+" lsp
+let s:lsp_server_dir = expand('~/.vim/lsp-settings/servers')
+let g:gutentags_cache_dir = s:lsp_server_dir
+if !isdirectory(s:lsp_server_dir)
+   silent! call mkdir(s:lsp_server_dir, 'p')
+endif
+let g:lsp_settings_servers_dir = s:lsp_server_dir
+" lsp folding'
+" set foldmethod=expr
+"   \ foldexpr=lsp#ui#vim#folding#foldexpr()
+"   \ foldtext=lsp#ui#vim#folding#foldtext()
+"
+" asyncomplete
+inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+inoremap <expr> <cr>    pumvisible() ? asyncomplete#close_popup() : "\<cr>"
+
+" ultisnip
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
+
+" " vim-addon-manager
+" " put this line first in ~/.vimrc
+" set nocompatible | filetype indent plugin on | syn on
+
+" fun! SetupVAM()
+"   let c = get(g:, 'vim_addon_manager', {})
+"   let g:vim_addon_manager = c
+"   let c.plugin_root_dir = expand('$HOME', 1) . '/.vim/vim-addons'
+
+"   " Force your ~/.vim/after directory to be last in &rtp always:
+"   " let g:vim_addon_manager.rtp_list_hook = 'vam#ForceUsersAfterDirectoriesToBeLast'
+
+"   " most used options you may want to use:
+"   " let c.log_to_buf = 1
+"   " let c.auto_install = 0
+"   let &rtp.=(empty(&rtp)?'':',').c.plugin_root_dir.'/vim-addon-manager'
+"   if !isdirectory(c.plugin_root_dir.'/vim-addon-manager/autoload')
+"     execute '!git clone --depth=1 git://github.com/MarcWeber/vim-addon-manager '
+"         \       shellescape(c.plugin_root_dir.'/vim-addon-manager', 1)
+"   endif
+
+"   " This provides the VAMActivate command, you could be passing plugin names, too
+"   call vam#ActivateAddons([], {})
+" endfun
+" call SetupVAM()
+
+" " ACTIVATING PLUGINS
+
+" " OPTION 1, use VAMActivate
+" VAMActivate vim-snippets snipmate ..
+
+" " " OPTION 2: use call vam#ActivateAddons
+" " call vam#ActivateAddons([PLUGIN_NAME], {})
+" " " use <c-x><c-p> to complete plugin names
+
+" " " OPTION 3: Create a file ~/.vim-scripts putting a PLUGIN_NAME into each line (# for comments)
+" " " See lazy loading plugins section in README.md for details
+" " call vam#Scripts('~/.vim-scripts', {'tag_regex': '.*'})
+
+" leetcode
+let g:leetcode_browser = 'firefox'
+
+nnoremap <leader>ll :LeetCodeList<cr>
+nnoremap <leader>lt :LeetCodeTest<cr>
+nnoremap <leader>ls :LeetCodeSubmit<cr>
+nnoremap <leader>li :LeetCodeSignIn<cr>
